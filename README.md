@@ -1,6 +1,3 @@
-# Entrega_planejamento_financeiro
-Entrega do projeto sobre um assunto financeiro introdutório
-
 # 📊 Planejamento Financeiro Pessoal e Familiar
 
 Este repositório apresenta um **miniguia de estudo** sobre Planejamento Financeiro Pessoal e Familiar, reunindo **resumos estruturados**, **conceitos fundamentais**, **exemplos práticos** e um **conjunto de prompts reutilizáveis** para apoiar revisões futuras, estudos acadêmicos e aplicações práticas.
